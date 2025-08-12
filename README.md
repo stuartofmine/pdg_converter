@@ -10,7 +10,7 @@
 
 ## 运行
 
-`python pdg_conveter.py`
+`python pdg_converter.py`
 
 ### 输入pdg目录
 `请输入PDG文件夹路径: 【这里输入你的pdg文件目录】`
