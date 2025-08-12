@@ -1,4 +1,4 @@
-# pdf_converter
+# pdg_converter
 受人之托，把pdg文件转成pdf
 
 ## 环境准备
